@@ -1,10 +1,13 @@
-MusicApp
+# MusicApp
 
-iOS app that plays music.
+simple app that plays music  
 
-The first of iOS apps, which I will publish for my study practice.
+# Intro
 
-Key lessons:
+my 1st iOS app, which i will publish for my study practice.
 
-Working with local data!
-Work with iOS!
+# Key lessons:
+
+working with local data!
+work with iOS!
+
